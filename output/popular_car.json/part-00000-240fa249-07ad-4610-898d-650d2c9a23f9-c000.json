@@ -1,0 +1,542 @@
+{"make":"Tesla","model":"Model 3","Count":331}
+{"make":"Ford","model":"Mustang","Count":151}
+{"make":"Tesla","model":"Model S","Count":130}
+{"make":"Jeep","model":"Wrangler","Count":123}
+{"make":"Tesla","model":"Model X","Count":114}
+{"make":"Toyota","model":"Corolla","Count":100}
+{"make":"BMW","model":"3 Series","Count":94}
+{"make":"Mercedes-Benz","model":"C-Class","Count":93}
+{"make":"Chevrolet","model":"Corvette","Count":78}
+{"make":"Toyota","model":"Camry","Count":77}
+{"make":"Toyota","model":"Prius","Count":74}
+{"make":"Chevrolet","model":"Camaro","Count":72}
+{"make":"Dodge","model":"Grand Caravan","Count":63}
+{"make":"Hyundai","model":"Sonata","Count":60}
+{"make":"Mercedes-Benz","model":"E-Class","Count":56}
+{"make":"Ford","model":"F-150","Count":53}
+{"make":"Nissan","model":"Sentra","Count":52}
+{"make":"Honda","model":"Odyssey","Count":51}
+{"make":"Honda","model":"Civic","Count":50}
+{"make":"Volkswagen","model":"Jetta","Count":50}
+{"make":"Maserati","model":"Ghibli","Count":50}
+{"make":"Nissan","model":"Altima","Count":49}
+{"make":"Toyota","model":"Sienna","Count":49}
+{"make":"Nissan","model":"Versa","Count":47}
+{"make":"Hyundai","model":"Elantra","Count":47}
+{"make":"Nissan","model":"Rogue","Count":46}
+{"make":"Polaris","model":"Slingshot","Count":46}
+{"make":"Toyota","model":"Yaris","Count":45}
+{"make":"Toyota","model":"RAV4","Count":44}
+{"make":"Dodge","model":"Challenger","Count":43}
+{"make":"BMW","model":"4 Series","Count":43}
+{"make":"BMW","model":"5 Series","Count":41}
+{"make":"BMW","model":"X5","Count":40}
+{"make":"Ford","model":"Fusion","Count":40}
+{"make":"Porsche","model":"Boxster","Count":40}
+{"make":"Honda","model":"Accord","Count":39}
+{"make":"Mercedes-Benz","model":"S-Class","Count":37}
+{"make":"Subaru","model":"Outback","Count":37}
+{"make":"Land Rover","model":"Range Rover Sport","Count":36}
+{"make":"Jeep","model":"Wrangler Unlimited","Count":36}
+{"make":"Porsche","model":"911","Count":36}
+{"make":"Kia","model":"Soul","Count":36}
+{"make":"Jaguar","model":"F-TYPE","Count":34}
+{"make":"Ford","model":"Escape","Count":33}
+{"make":"Chevrolet","model":"Cruze","Count":32}
+{"make":"Ford","model":"Focus","Count":31}
+{"make":"Chevrolet","model":"Suburban","Count":31}
+{"make":"Toyota","model":"Highlander","Count":30}
+{"make":"Toyota","model":"4Runner","Count":30}
+{"make":"Honda","model":"CR-V","Count":29}
+{"make":"Chevrolet","model":"Equinox","Count":29}
+{"make":"BMW","model":"i8","Count":28}
+{"make":"FIAT","model":"500","Count":28}
+{"make":"Kia","model":"Optima","Count":28}
+{"make":"Mercedes-Benz","model":"CLA-Class","Count":27}
+{"make":"Porsche","model":"Cayenne","Count":27}
+{"make":"Porsche","model":"Macan","Count":27}
+{"make":"Audi","model":"A4","Count":27}
+{"make":"Jeep","model":"Grand Cherokee","Count":27}
+{"make":"Volkswagen","model":"Passat","Count":26}
+{"make":"Toyota","model":"Tacoma","Count":26}
+{"make":"Dodge","model":"Charger","Count":26}
+{"make":"Ford","model":"Explorer","Count":25}
+{"make":"Ford","model":"Fiesta","Count":24}
+{"make":"BMW","model":"M4","Count":24}
+{"make":"Jeep","model":"Cherokee","Count":24}
+{"make":"Tesla","model":"Model Y","Count":23}
+{"make":"Chevrolet","model":"Express","Count":22}
+{"make":"Kia","model":"Sedona","Count":22}
+{"make":"Honda","model":"Pilot","Count":22}
+{"make":"GMC","model":"Yukon XL","Count":22}
+{"make":"Chevrolet","model":"Malibu","Count":21}
+{"make":"Kia","model":"Forte","Count":21}
+{"make":"Hyundai","model":"Accent","Count":20}
+{"make":"Acura","model":"MDX","Count":20}
+{"make":"Mercedes-Benz","model":"G-Class","Count":20}
+{"make":"Porsche","model":"Panamera","Count":19}
+{"make":"Audi","model":"Q7","Count":19}
+{"make":"Land Rover","model":"Range Rover","Count":19}
+{"make":"BMW","model":"Z4","Count":19}
+{"make":"BMW","model":"X1","Count":18}
+{"make":"Audi","model":"Q5","Count":18}
+{"make":"BMW","model":"2 Series","Count":17}
+{"make":"Mazda","model":"3","Count":17}
+{"make":"Porsche","model":"718 Boxster","Count":17}
+{"make":"Subaru","model":"Forester","Count":17}
+{"make":"Lexus","model":"RX 350","Count":17}
+{"make":"Mercedes-Benz","model":"GL-Class","Count":17}
+{"make":"Toyota","model":"Tundra","Count":17}
+{"make":"Jeep","model":"Renegade","Count":16}
+{"make":"Chevrolet","model":"Corvette Stingray","Count":16}
+{"make":"Mercedes-benz","model":"C-Class","Count":16}
+{"make":"Hyundai","model":"Tucson","Count":16}
+{"make":"Honda","model":"Accord Sedan","Count":15}
+{"make":"BMW","model":"7 Series","Count":15}
+{"make":"Chevrolet","model":"Tahoe","Count":15}
+{"make":"Audi","model":"A3","Count":15}
+{"make":"BMW","model":"X3","Count":15}
+{"make":"Nissan","model":"Pathfinder","Count":15}
+{"make":"Honda","model":"Civic Sedan","Count":14}
+{"make":"Mercedes-Benz","model":"M-Class","Count":14}
+{"make":"Toyota","model":"Prius c","Count":14}
+{"make":"Chrysler","model":"Town and Country","Count":14}
+{"make":"Land Rover","model":"Range Rover Evoque","Count":14}
+{"make":"Jeep","model":"Patriot","Count":14}
+{"make":"Chevrolet","model":"Spark","Count":14}
+{"make":"smart","model":"fortwo","Count":14}
+{"make":"Jeep","model":"Gladiator","Count":14}
+{"make":"Dodge","model":"Durango","Count":14}
+{"make":"Chrysler","model":"Pacifica","Count":14}
+{"make":"Audi","model":"A6","Count":14}
+{"make":"Mercedes-Benz","model":"SLK-Class","Count":13}
+{"make":"Nissan","model":"Murano","Count":13}
+{"make":"Jeep","model":"Wrangler JK","Count":13}
+{"make":"Infiniti","model":"QX60","Count":13}
+{"make":"Lexus","model":"ES 350","Count":13}
+{"make":"Mazda","model":"CX-5","Count":13}
+{"make":"Porsche","model":"Cayman","Count":13}
+{"make":"MINI","model":"Cooper","Count":13}
+{"make":"Toyota","model":"C-HR","Count":12}
+{"make":"GMC","model":"Acadia","Count":12}
+{"make":"Chevrolet","model":"Volt","Count":12}
+{"make":"Mercedes-Benz","model":"GLC-Class","Count":12}
+{"make":"Chrysler","model":"200","Count":12}
+{"make":"Volkswagen","model":"Tiguan","Count":12}
+{"make":"Chevrolet","model":"Traverse","Count":12}
+{"make":"Kia","model":"Sorento","Count":12}
+{"make":"Land Rover","model":"Range Rover Velar","Count":12}
+{"make":"Lexus","model":"CT 200h","Count":12}
+{"make":"Mitsubishi","model":"Mirage","Count":11}
+{"make":"BMW","model":"6 Series","Count":11}
+{"make":"Chevrolet","model":"Sonic","Count":11}
+{"make":"Ford","model":"Transit Wagon","Count":11}
+{"make":"Chevrolet","model":"Silverado 1500","Count":11}
+{"make":"Chevrolet","model":"Impala","Count":11}
+{"make":"Chrysler","model":"300","Count":11}
+{"make":"Ram","model":"1500","Count":11}
+{"make":"Chevrolet","model":"Bolt EV","Count":11}
+{"make":"Cadillac","model":"Escalade ESV","Count":11}
+{"make":"Lexus","model":"IS 250","Count":10}
+{"make":"Audi","model":"Q3","Count":10}
+{"make":"Honda","model":"Fit","Count":10}
+{"make":"Dodge","model":"Journey","Count":10}
+{"make":"Kia","model":"Rio","Count":10}
+{"make":"GMC","model":"Sierra 1500","Count":10}
+{"make":"Ford","model":"Expedition","Count":10}
+{"make":"Mazda","model":"MX-5 Miata","Count":10}
+{"make":"Nissan","model":"Frontier","Count":9}
+{"make":"Audi","model":"S5","Count":9}
+{"make":"Lamborghini","model":"Huracan","Count":9}
+{"make":"Hyundai","model":"Santa Fe","Count":9}
+{"make":"Toyota","model":"Supra","Count":9}
+{"make":"BMW","model":"i3","Count":9}
+{"make":"BMW","model":"M3","Count":9}
+{"make":"Subaru","model":"Impreza","Count":9}
+{"make":"Infiniti","model":"Q50","Count":8}
+{"make":"Jaguar","model":"F-PACE","Count":8}
+{"make":"Ford","model":"Edge","Count":8}
+{"make":"Alfa Romeo","model":"Stelvio","Count":8}
+{"make":"Toyota","model":"FJ Cruiser","Count":8}
+{"make":"Cadillac","model":"Escalade","Count":8}
+{"make":"Audi","model":"R8","Count":8}
+{"make":"Nissan","model":"Xterra","Count":8}
+{"make":"Honda","model":"Insight","Count":8}
+{"make":"Ford","model":"Fusion Hybrid","Count":8}
+{"make":"Volvo","model":"XC60","Count":8}
+{"make":"Audi","model":"A7","Count":8}
+{"make":"GMC","model":"Terrain","Count":8}
+{"make":"FIAT","model":"124 Spider","Count":8}
+{"make":"Audi","model":"A5","Count":8}
+{"make":"Toyota","model":"Avalon","Count":8}
+{"make":"Jeep","model":"Compass","Count":8}
+{"make":"Mazda","model":"6","Count":8}
+{"make":"Mercedes-benz","model":"GLC-Class","Count":8}
+{"make":"MINI","model":"Cooper Countryman","Count":8}
+{"make":"Mitsubishi","model":"Outlander","Count":8}
+{"make":"Mercedes-Benz","model":"GLA-Class","Count":8}
+{"make":"GMC","model":"Yukon","Count":7}
+{"make":"BMW","model":"I8","Count":7}
+{"make":"Lexus","model":"GX 460","Count":7}
+{"make":"Mercedes-Benz","model":"GLK-Class","Count":7}
+{"make":"Acura","model":"TLX","Count":7}
+{"make":"BMW","model":"4 Series Gran Coupe","Count":7}
+{"make":"Buick","model":"Enclave","Count":7}
+{"make":"Ford","model":"Fusion Energi","Count":7}
+{"make":"Volkswagen","model":"Beetle","Count":7}
+{"make":"Lincoln","model":"Navigator","Count":7}
+{"make":"Nissan","model":"Maxima","Count":7}
+{"make":"BMW","model":"X6","Count":7}
+{"make":"Toyota","model":"Prius Prime","Count":7}
+{"make":"Alfa Romeo","model":"Giulia","Count":7}
+{"make":"Dodge","model":"Ram 1500","Count":7}
+{"make":"Volkswagen","model":"Eos","Count":7}
+{"make":"Acura","model":"RDX","Count":7}
+{"make":"Maserati","model":"Quattroporte","Count":7}
+{"make":"Acura","model":"TSX","Count":7}
+{"make":"Maserati","model":"Levante","Count":7}
+{"make":"Chevrolet","model":"Trax","Count":7}
+{"make":"Nissan","model":"Rogue Sport","Count":7}
+{"make":"Nissan","model":"Armada","Count":7}
+{"make":"Nissan","model":"Leaf","Count":6}
+{"make":"Ford","model":"Transit Van","Count":6}
+{"make":"BMW","model":"4-Series","Count":6}
+{"make":"Hyundai","model":"Genesis","Count":6}
+{"make":"Alfa Romeo","model":"4C","Count":6}
+{"make":"BMW","model":"3-Series","Count":6}
+{"make":"Lexus","model":"ES 300h","Count":6}
+{"make":"BMW","model":"X4","Count":6}
+{"make":"Mercedes-Benz","model":"Metris","Count":6}
+{"make":"Acura","model":"ILX","Count":6}
+{"make":"Audi","model":"SQ5","Count":6}
+{"make":"Volkswagen","model":"Touareg","Count":6}
+{"make":"Hyundai","model":"Santa Fe Sport","Count":6}
+{"make":"Nissan","model":"Versa Note","Count":6}
+{"make":"BMW","model":"1 Series","Count":6}
+{"make":"Jaguar","model":"XJ","Count":6}
+{"make":"Nissan","model":"GT-R","Count":6}
+{"make":"Volkswagen","model":"Atlas","Count":6}
+{"make":"Subaru","model":"Legacy","Count":6}
+{"make":"Lexus","model":"HS 250h","Count":6}
+{"make":"Lexus","model":"LC 500","Count":6}
+{"make":"Mercedes-Benz","model":"GLE-Class","Count":6}
+{"make":"Mercedes-benz","model":"GLE-Class","Count":6}
+{"make":"Dodge","model":"Avenger","Count":5}
+{"make":"Ferrari","model":"California","Count":5}
+{"make":"Lincoln","model":"MKZ","Count":5}
+{"make":"Mercedes-Benz","model":"AMG GT","Count":5}
+{"make":"Lexus","model":"NX 200t","Count":5}
+{"make":"Toyota","model":"Prius v","Count":5}
+{"make":"INFINITI","model":"Q50","Count":5}
+{"make":"Subaru","model":"WRX","Count":5}
+{"make":"Chrysler","model":"Sebring","Count":5}
+{"make":"Kia","model":"Sportage","Count":5}
+{"make":"Cadillac","model":"XTS","Count":5}
+{"make":"Mercedes-Benz","model":"Sprinter","Count":5}
+{"make":"Alfa-romeo","model":"Giulia","Count":5}
+{"make":"Cadillac","model":"ATS","Count":5}
+{"make":"Volkswagen","model":"Golf","Count":5}
+{"make":"Toyota","model":"Sequoia","Count":5}
+{"make":"BMW","model":"7-Series","Count":5}
+{"make":"Toyota","model":"Camry Hybrid","Count":5}
+{"make":"Dodge","model":"Dart","Count":5}
+{"make":"Porsche","model":"718 Cayman","Count":5}
+{"make":"Chevrolet","model":"Cruze Limited","Count":5}
+{"make":"Jaguar","model":"XF","Count":4}
+{"make":"Audi","model":"S4","Count":4}
+{"make":"Honda","model":"Clarity","Count":4}
+{"make":"Hyundai","model":"Elantra GT","Count":4}
+{"make":"Mercedes-Benz","model":"CLS-Class","Count":4}
+{"make":"Toyota","model":"Yaris iA","Count":4}
+{"make":"Scion","model":"xB","Count":4}
+{"make":"Ram","model":"3500","Count":4}
+{"make":"BMW","model":"M-Series","Count":4}
+{"make":"Audi","model":"A8","Count":4}
+{"make":"Scion","model":"xD","Count":4}
+{"make":"Mercedes-Benz","model":"SL-Class","Count":4}
+{"make":"Alfa-romeo","model":"Stelvio","Count":4}
+{"make":"Cadillac","model":"CTS","Count":4}
+{"make":"Chevrolet","model":"Colorado","Count":4}
+{"make":"Land Rover","model":"LR4","Count":4}
+{"make":"Subaru","model":"Crosstrek","Count":4}
+{"make":"Lamborghini","model":"Gallardo","Count":4}
+{"make":"Mazda","model":"MAZDA2","Count":4}
+{"make":"Mercedes-benz","model":"Sprinter","Count":4}
+{"make":"Kia","model":"Stinger","Count":4}
+{"make":"Dodge","model":"Caliber","Count":4}
+{"make":"Volvo","model":"XC90","Count":4}
+{"make":"Lexus","model":"NX 300","Count":4}
+{"make":"Mazda","model":"CX-9","Count":4}
+{"make":"Ford","model":"C-Max Hybrid","Count":4}
+{"make":"Honda","model":"Ridgeline","Count":4}
+{"make":"Land Rover","model":"Discovery Sport","Count":4}
+{"make":"Mercedes-benz","model":"E-Class","Count":4}
+{"make":"Kia","model":"Telluride","Count":4}
+{"make":"Buick","model":"Encore","Count":4}
+{"make":"Volkswagen","model":"Golf GTI","Count":4}
+{"make":"Lexus","model":"IS 200t","Count":3}
+{"make":"FIAT","model":"500L","Count":3}
+{"make":"Mercedes-benz","model":"G-Class","Count":3}
+{"make":"Mitsubishi","model":"Lancer","Count":3}
+{"make":"GMC","model":"Savana","Count":3}
+{"make":"Infiniti","model":"JX","Count":3}
+{"make":"Buick","model":"LaCrosse","Count":3}
+{"make":"GMC","model":"Canyon","Count":3}
+{"make":"Mitsubishi","model":"Outlander Sport","Count":3}
+{"make":"Chevrolet","model":"Silverado 2500HD","Count":3}
+{"make":"Aston Martin","model":"V8 Vantage","Count":3}
+{"make":"Toyota","model":"Highlander Hybrid","Count":3}
+{"make":"Jaguar","model":"F-Type","Count":3}
+{"make":"Nissan","model":"Quest","Count":3}
+{"make":"Maserati","model":"GranTurismo","Count":3}
+{"make":"Mazda","model":"2","Count":3}
+{"make":"Ford","model":"Flex","Count":3}
+{"make":"Honda","model":"HR-V","Count":3}
+{"make":"Mercedes-benz","model":"GLS-Class","Count":3}
+{"make":"Subaru","model":"XV Crosstrek","Count":3}
+{"make":"Mazda","model":"MAZDA5","Count":3}
+{"make":"Nissan","model":"370Z","Count":3}
+{"make":"Hyundai","model":"Genesis G70","Count":3}
+{"make":"Mercedes-benz","model":"CLA-Class","Count":3}
+{"make":"Mercedes-Benz","model":"GLE-Class Coupe","Count":3}
+{"make":"Cadillac","model":"SRX","Count":3}
+{"make":"Toyota","model":"RAV4 Hybrid","Count":3}
+{"make":"Kia","model":"Rio 5-Door","Count":3}
+{"make":"Kia","model":"Niro","Count":3}
+{"make":"BMW","model":"5-Series","Count":3}
+{"make":"Toyota","model":"Camry Solara","Count":3}
+{"make":"Hyundai","model":"Ioniq Hybrid","Count":3}
+{"make":"Mazda","model":"MX-5 Miata RF","Count":3}
+{"make":"Toyota","model":"Corolla iM","Count":3}
+{"make":"Hyundai","model":"Veloster","Count":3}
+{"make":"Chevrolet","model":"Aveo","Count":3}
+{"make":"Volvo","model":"S60","Count":3}
+{"make":"Infiniti","model":"QX50","Count":3}
+{"make":"Kia","model":"Cadenza","Count":3}
+{"make":"Scion","model":"FR-S","Count":2}
+{"make":"Rolls Royce","model":"Ghost","Count":2}
+{"make":"Cadillac","model":"CTS Coupe","Count":2}
+{"make":"Cadillac","model":"XT5","Count":2}
+{"make":"Lexus","model":"RC 350","Count":2}
+{"make":"Dodge","model":"Ram 1500 Classic","Count":2}
+{"make":"Jaguar","model":"XE","Count":2}
+{"make":"Ford","model":"C-Max","Count":2}
+{"make":"Ford","model":"Taurus","Count":2}
+{"make":"Subaru","model":"Ascent","Count":2}
+{"make":"Audi","model":"A5 Sportback","Count":2}
+{"make":"Buick","model":"Verano","Count":2}
+{"make":"Mitsubishi","model":"Mirage G4","Count":2}
+{"make":"Ford","model":"Shelby GT350","Count":2}
+{"make":"Lincoln","model":"MKS","Count":2}
+{"make":"Honda","model":"Element","Count":2}
+{"make":"Bentley","model":"Continental GTC","Count":2}
+{"make":"Toyota","model":"Avalon Hybrid","Count":2}
+{"make":"Genesis","model":"G80","Count":2}
+{"make":"INFINITI","model":"QX60","Count":2}
+{"make":"Mazda","model":"Mazda3","Count":2}
+{"make":"MINI","model":"Clubman","Count":2}
+{"make":"Ferrari","model":"488GTB","Count":2}
+{"make":"Volvo","model":"S90","Count":2}
+{"make":"Lexus","model":"LS 460","Count":2}
+{"make":"BMW","model":"X7","Count":2}
+{"make":"Chevrolet","model":"Tahoe Hybrid","Count":2}
+{"make":"Lexus","model":"IS","Count":2}
+{"make":"Lexus","model":"IS 250 C","Count":2}
+{"make":"Ferrari","model":"F430","Count":2}
+{"make":"Bentley","model":"Continental GT Speed","Count":2}
+{"make":"MINI","model":"Hardtop 2dr","Count":2}
+{"make":"Acura","model":"NSX","Count":2}
+{"make":"Audi","model":"A8 L","Count":2}
+{"make":"Audi","model":"Q8","Count":2}
+{"make":"Jeep","model":"Liberty","Count":2}
+{"make":"HUMMER","model":"H2","Count":2}
+{"make":"MINI","model":"Hardtop 2 Door","Count":2}
+{"make":"Nissan","model":"Juke","Count":2}
+{"make":"BMW","model":"3 Series Gran Turismo","Count":2}
+{"make":"Mercury","model":"Mariner","Count":2}
+{"make":"Volkswagen","model":"CC","Count":2}
+{"make":"Lincoln","model":"Continental","Count":2}
+{"make":"Lexus","model":"RX","Count":2}
+{"make":"Chevrolet","model":"HHR","Count":2}
+{"make":"Mercedes-Benz","model":"CL-Class","Count":2}
+{"make":"Land Rover","model":"Discovery","Count":2}
+{"make":"Buick","model":"Regal","Count":2}
+{"make":"Bentley","model":"Continental GT","Count":2}
+{"make":"Lexus","model":"GS 350","Count":2}
+{"make":"Audi","model":"RS 5","Count":2}
+{"make":"Infiniti","model":"G Sedan","Count":2}
+{"make":"Lincoln","model":"MKC","Count":2}
+{"make":"Pontiac","model":"Solstice","Count":2}
+{"make":"Nissan","model":"Cube","Count":2}
+{"make":"Toyota","model":"86","Count":2}
+{"make":"Pontiac","model":"G6","Count":2}
+{"make":"Ford","model":"F-250 Super Duty","Count":2}
+{"make":"Ram","model":"2500","Count":2}
+{"make":"Infiniti","model":"QX","Count":2}
+{"make":"Lamborghini","model":"Urus","Count":2}
+{"make":"Scion","model":"tC","Count":2}
+{"make":"Lexus","model":"GX","Count":2}
+{"make":"Lexus","model":"LX 570","Count":2}
+{"make":"BMW","model":"M6","Count":2}
+{"make":"Lexus","model":"IS 350","Count":2}
+{"make":"Volvo","model":"V60","Count":2}
+{"make":"Audi","model":"allroad","Count":2}
+{"make":"Land Rover","model":"LR2","Count":2}
+{"make":"Lotus","model":"Evora","Count":2}
+{"make":"Mazda","model":"Mazda6","Count":2}
+{"make":"Audi","model":"TTS","Count":2}
+{"make":"Audi","model":"S6","Count":2}
+{"make":"Ford","model":"EcoSport","Count":2}
+{"make":"Honda","model":"Accord Hybrid","Count":2}
+{"make":"Lexus","model":"RX 450h","Count":2}
+{"make":"Hyundai","model":"Equus","Count":1}
+{"make":"Hyundai","model":"Ioniq Plug-In Hybrid","Count":1}
+{"make":"MINI","model":"Cooper Coupe","Count":1}
+{"make":"Lincoln","model":"MKX","Count":1}
+{"make":"Aston Martin","model":"V12 Vantage S","Count":1}
+{"make":"Lincoln","model":"Navigator L","Count":1}
+{"make":"Nissan","model":"Titan","Count":1}
+{"make":"Lexus","model":"RC 200t","Count":1}
+{"make":"Volkswagen","model":"New Beetle","Count":1}
+{"make":"BMW","model":"X5 M","Count":1}
+{"make":"HUMMER","model":"H3","Count":1}
+{"make":"Ford","model":"Transit Connect","Count":1}
+{"make":"Chevrolet","model":"Blazer","Count":1}
+{"make":"BMW","model":"8-Series","Count":1}
+{"make":"Honda","model":"Passport","Count":1}
+{"make":"Chevrolet","model":"TrailBlazer","Count":1}
+{"make":"Lexus","model":"RX 400h","Count":1}
+{"make":"Chevrolet","model":"Impala Limited","Count":1}
+{"make":"Volkswagen","model":"Atlas Cross Sport","Count":1}
+{"make":"Scion","model":"iM","Count":1}
+{"make":"BMW","model":"X2","Count":1}
+{"make":"Nissan","model":"Titan XD","Count":1}
+{"make":"Infiniti","model":"EX35","Count":1}
+{"make":"Ford","model":"Freestyle","Count":1}
+{"make":"Lincoln","model":"Town Car","Count":1}
+{"make":"BMW","model":"X5 eDrive","Count":1}
+{"make":"Honda","model":"Civic Hatch","Count":1}
+{"make":"Kia","model":"Soul EV","Count":1}
+{"make":"Mitsubishi","model":"Eclipse Cross","Count":1}
+{"make":"Toyota","model":"Corolla Hatchback","Count":1}
+{"make":"Infiniti","model":"G35","Count":1}
+{"make":"Ferrari","model":"458 Spider","Count":1}
+{"make":"Volkswagen","model":"Routan","Count":1}
+{"make":"Lexus","model":"IS 350 C","Count":1}
+{"make":"Audi","model":"TT RS","Count":1}
+{"make":"Volkswagen","model":"Arteon","Count":1}
+{"make":"Ford","model":"mustang","Count":1}
+{"make":"FIAT","model":"124 Convertible 2000","Count":1}
+{"make":"Volvo","model":"S80","Count":1}
+{"make":"Ford","model":"Transit-350 Wagon","Count":1}
+{"make":"Buick","model":"Regal Sportback","Count":1}
+{"make":"Chevrolet","model":"Uplander","Count":1}
+{"make":"Dodge","model":"Viper","Count":1}
+{"make":"Audi","model":"RS 7","Count":1}
+{"make":"Infiniti","model":"Q60 Coupe","Count":1}
+{"make":"Ferrari","model":"488 Spider","Count":1}
+{"make":"Jaguar","model":"XK-Series","Count":1}
+{"make":"BMW","model":"6 Series Gran Coupe","Count":1}
+{"make":"MINI","model":"Cooper Clubman","Count":1}
+{"make":"Ford","model":"Expedition MAX","Count":1}
+{"make":"Nissan","model":"NV200","Count":1}
+{"make":"MINI","model":"Convertible","Count":1}
+{"make":"Ferrari","model":"348 Spider","Count":1}
+{"make":"FIAT","model":"500X","Count":1}
+{"make":"Volkswagen","model":"e-Golf","Count":1}
+{"make":"Chevrolet","model":"Malibu Limited","Count":1}
+{"make":"GMC","model":"Sierra 3500HD","Count":1}
+{"make":"Cadillac","model":"XT4","Count":1}
+{"make":"Bentley","model":"Continental Flying Spur","Count":1}
+{"make":"Volkswagen","model":"Rabbit","Count":1}
+{"make":"Lexus","model":"GS 450h","Count":1}
+{"make":"BMW","model":"I3","Count":1}
+{"make":"Porsche","model":"718","Count":1}
+{"make":"Acura","model":"TL","Count":1}
+{"make":"Bentley","model":"Flying Spur","Count":1}
+{"make":"Suzuki","model":"Kizashi","Count":1}
+{"make":"Lotus","model":"Evora 400","Count":1}
+{"make":"Honda","model":"Crosstour","Count":1}
+{"make":"Ram","model":"Promaster Cargo Van","Count":1}
+{"make":"Lexus","model":"ES 330","Count":1}
+{"make":"Hyundai","model":"Elantra Touring","Count":1}
+{"make":"Toyota","model":"Corolla Hybrid","Count":1}
+{"make":"Ford","model":"Shelby AC Cobra","Count":1}
+{"make":"Ford","model":"Explorer Sport Trac","Count":1}
+{"make":"Toyota","model":"Matrix","Count":1}
+{"make":"Kia","model":"Spectra","Count":1}
+{"make":"Cadillac","model":"CT6","Count":1}
+{"make":"Chevrolet","model":"Silverado 1500 Hybrid","Count":1}
+{"make":"Infiniti","model":"G37","Count":1}
+{"make":"Mercedes-benz","model":"CLS-Class","Count":1}
+{"make":"Lexus","model":"RX 350L","Count":1}
+{"make":"Hyundai","model":"Azera","Count":1}
+{"make":"Hyundai","model":"Kona","Count":1}
+{"make":"Audi","model":"TT","Count":1}
+{"make":"Lexus","model":"Ux","Count":1}
+{"make":"Jeep","model":"Grand Cherokee SRT","Count":1}
+{"make":"Pontiac","model":"Vibe","Count":1}
+{"make":"Volkswagen","model":"E-Golf","Count":1}
+{"make":"Suzuki","model":"XL7","Count":1}
+{"make":"Infiniti","model":"QX80","Count":1}
+{"make":"Mercedes-Benz","model":"SLC-Class","Count":1}
+{"make":"Audi","model":"E-Tron","Count":1}
+{"make":"Aston Martin","model":"DB9","Count":1}
+{"make":"BMW","model":"X6 M","Count":1}
+{"make":"FIAT","model":"500e","Count":1}
+{"make":"Volvo","model":"XC40","Count":1}
+{"make":"Porsche","model":"356 Speedster","Count":1}
+{"make":"MINI","model":"Cooper Roadster","Count":1}
+{"make":"Volkswagen","model":"Touareg 2","Count":1}
+{"make":"Lexus","model":"LX","Count":1}
+{"make":"Kia","model":"Optima Hybrid","Count":1}
+{"make":"Saturn","model":"ION","Count":1}
+{"make":"Mazda","model":"CX-7","Count":1}
+{"make":"Mazda","model":"5","Count":1}
+{"make":"Saab","model":"3-Sep","Count":1}
+{"make":"Cadillac","model":"ATS Coupe","Count":1}
+{"make":"Dodge","model":"Caravan","Count":1}
+{"make":"Chevrolet","model":"Express Cargo","Count":1}
+{"make":"BMW","model":"M5","Count":1}
+{"make":"Lotus","model":"Exige","Count":1}
+{"make":"Toyota","model":"camry","Count":1}
+{"make":"Rolls Royce","model":"Silver Shadow","Count":1}
+{"make":"Ferrari","model":"488 Gtb","Count":1}
+{"make":"Ford","model":"Ranger","Count":1}
+{"make":"Chrysler","model":"Voyager","Count":1}
+{"make":"Ford","model":"F-450 Super Duty","Count":1}
+{"make":"Lexus","model":"IS 300","Count":1}
+{"make":"Volkswagen","model":"Jetta Hybrid","Count":1}
+{"make":"Infiniti","model":"Q60","Count":1}
+{"make":"Hyundai","model":"Palisade","Count":1}
+{"make":"Toyota","model":"Land Cruiser","Count":1}
+{"make":"Cadillac","model":"STS","Count":1}
+{"make":"BMW","model":"M6 Gran Coupe","Count":1}
+{"make":"Mercedes-Benz","model":"380sl","Count":1}
+{"make":"Mercedes-Benz","model":"GLS-Class","Count":1}
+{"make":"Ford","model":"Focus RS","Count":1}
+{"make":"Mercedes-benz","model":"AMG GT","Count":1}
+{"make":"make","model":"model","Count":1}
+{"make":"Audi","model":"RS 3","Count":1}
+{"make":"Toyota","model":"Venza","Count":1}
+{"make":"Honda","model":"S2000","Count":1}
+{"make":"Dodge","model":"Ram 3500","Count":1}
+{"make":"Ram","model":"CV Tradesman","Count":1}
+{"make":"Lexus","model":"GX 470","Count":1}
+{"make":"Bentley","model":"Continental Supersports","Count":1}
+{"make":"Ford","model":"Transit-350 Wagon EL","Count":1}
+{"make":"Volkswagen","model":"GTI","Count":1}
+{"make":"McLaren","model":"570S","Count":1}
+{"make":"Saturn","model":"Sky","Count":1}
+{"make":"BMW","model":"2-Series","Count":1}
+{"make":"Ford","model":"Shelby Cobra","Count":1}
+{"make":"Lexus","model":"NX","Count":1}
+{"make":"INFINITI","model":"QX80","Count":1}
+{"make":"Jeep","model":"Commander","Count":1}
+{"make":"Mitsubishi","model":"Eclipse Spyder","Count":1}
+{"make":"Lexus","model":"RC","Count":1}
+{"make":"Ram","model":"Dakota","Count":1}
+{"make":"Infiniti","model":"M35","Count":1}
+{"make":"Porsche","model":"356","Count":1}
+{"make":"Volvo","model":"S40","Count":1}
+{"make":"Volkswagen","model":"Van","Count":1}
